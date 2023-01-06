@@ -18,13 +18,10 @@
     "dist"
   ],
   "keywords": [
-    "vue",
-    "typescript",
-    "material",
-    "design",
-    "ui",
-    "framework",
-    "vue-framework"
+    "vite",
+    "i18n",
+    "yaml",
+    "vite-plugin"
   ],
   "type": "module",
   "author": "Web-TS",
@@ -48,5 +45,6 @@
     "vite": "^4.0.4",
     "vite-plugin-dts": "^1.7.1",
     "vitest": "^0.26.3"
-  }
+  },
+  "packageManager": "pnpm@7.22.0"
 }
